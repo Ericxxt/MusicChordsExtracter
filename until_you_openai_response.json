@@ -1,0 +1,161 @@
+{
+  "key": "F",
+  "mode": "Major",
+  "chord_progression": [
+    {
+      "chord": "A#",
+      "start_time": 0.0,
+      "end_time": 2.28,
+      "lyrics": "Georgia, wrap me up in all you"
+    },
+    {
+      "chord": "F",
+      "start_time": 2.28,
+      "end_time": 4.55,
+      "lyrics": "have wanted In my arms,"
+    },
+    {
+      "chord": "D#",
+      "start_time": 4.55,
+      "end_time": 6.83,
+      "lyrics": " oh, let me hold"
+    },
+    {
+      "chord": "A#",
+      "start_time": 6.83,
+      "end_time": 9.1,
+      "lyrics": " you"
+    },
+    {
+      "chord": "F",
+      "start_time": 28.0,
+      "end_time": 31.86,
+      "lyrics": "I'll never let you go again like I did"
+    },
+    {
+      "chord": "A#",
+      "start_time": 31.86,
+      "end_time": 34.13,
+      "lyrics": " or used to"
+    },
+    {
+      "chord": "D#",
+      "start_time": 34.13,
+      "end_time": 36.41,
+      "lyrics": " say"
+    },
+    {
+      "chord": "F",
+      "start_time": 37.0,
+      "end_time": 40.96,
+      "lyrics": "I would never fall in love again"
+    },
+    {
+      "chord": "A#",
+      "start_time": 40.96,
+      "end_time": 43.24,
+      "lyrics": " until I found"
+    },
+    {
+      "chord": "D",
+      "start_time": 43.24,
+      "end_time": 45.51,
+      "lyrics": " her"
+    },
+    {
+      "chord": "Gm",
+      "start_time": 44.0,
+      "end_time": 47.79,
+      "lyrics": "I said I would never fall unless it's"
+    },
+    {
+      "chord": "A#",
+      "start_time": 47.79,
+      "end_time": 50.06,
+      "lyrics": " you I fall into"
+    },
+    {
+      "chord": "F",
+      "start_time": 51.0,
+      "end_time": 54.61,
+      "lyrics": "I was lost within the darkness"
+    },
+    {
+      "chord": "A#",
+      "start_time": 54.61,
+      "end_time": 56.89,
+      "lyrics": " but then I found"
+    },
+    {
+      "chord": "D#",
+      "start_time": 56.89,
+      "end_time": 59.16,
+      "lyrics": " her, I found you"
+    },
+    {
+      "chord": "A#",
+      "start_time": 66.0,
+      "end_time": 68.27,
+      "lyrics": "Georgia, pulled me in, I"
+    },
+    {
+      "chord": "F",
+      "start_time": 68.27,
+      "end_time": 70.54,
+      "lyrics": " asked to love her"
+    },
+    {
+      "chord": "D#",
+      "start_time": 77.0,
+      "end_time": 79.64,
+      "lyrics": "Once again you fell, I caught"
+    },
+    {
+      "chord": "A#",
+      "start_time": 79.64,
+      "end_time": 81.92,
+      "lyrics": " ya"
+    },
+    {
+      "chord": "F",
+      "start_time": 94.0,
+      "end_time": 97.85,
+      "lyrics": "I'll never let you go again like I did"
+    },
+    {
+      "chord": "A#",
+      "start_time": 97.85,
+      "end_time": 100.12,
+      "lyrics": " or used to"
+    },
+    {
+      "chord": "D#",
+      "start_time": 100.12,
+      "end_time": 102.4,
+      "lyrics": " say"
+    },
+    {
+      "chord": "Gm",
+      "start_time": 101.0,
+      "end_time": 104.68,
+      "lyrics": "I would never fall in love again"
+    },
+    {
+      "chord": "A#",
+      "start_time": 104.68,
+      "end_time": 106.95,
+      "lyrics": " until I found"
+    },
+    {
+      "chord": "D",
+      "start_time": 106.95,
+      "end_time": 109.23,
+      "lyrics": " her"
+    }
+  ],
+  "melody_analysis": "The melody exhibits consistent major mode qualities with frequent prominence of the note F, confirming the key center. Phrases generally end on strong tonic or dominant chords, which supports the lyrical content and emotional progression.",
+  "patterns": [
+    "The recurring chord pattern of A#-F-D#-Gm is used throughout the piece, interspersed with motif variations and lyrical progression.",
+    "Observers can note a repetition in the chorus lyrics mirrored by the repetition of chord progressions, echoing the thematic sentiment of rediscovery and steadfast presence in the larger structure of the song."
+  ]
+}

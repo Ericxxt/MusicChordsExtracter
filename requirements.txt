@@ -1,0 +1,8 @@
+openai
+librosa>=0.10.0
+numpy>=1.22.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+demucs
+soundfile>=0.12.1 
+fpdf>=1.7.2
